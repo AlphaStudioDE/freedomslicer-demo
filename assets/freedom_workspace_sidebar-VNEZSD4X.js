@@ -1,5 +1,5 @@
 function o(i,t){let a=document.createElement("style");a.textContent=`
-    .layout-sidebar{display:grid;height:100%;gap:16px;grid-template-columns:72px minmax(0,1fr) 310px;grid-template-rows:minmax(0,1fr) 124px}
+    .layout-sidebar{display:grid;height:100%;gap:12px;grid-template-columns:72px minmax(0,1fr) 310px;grid-template-rows:minmax(0,1fr) 104px}
     .layout-sidebar>[data-slot=nav]{grid-column:1;grid-row:1/3;flex-direction:column;padding:16px 0;border-right:1px solid var(--line)}
     .layout-sidebar>[data-slot=viewport]{grid-column:2;grid-row:1}
     .layout-sidebar>[data-slot=settings]{grid-column:3;grid-row:1/3}
