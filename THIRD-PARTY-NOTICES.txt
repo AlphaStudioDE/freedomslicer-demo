@@ -1,0 +1,25 @@
+FREEDOMSLICER THIRD-PARTY NOTICES
+
+FreedomSlicer original code and artwork are proprietary to the FreedomSlicer
+project owner. The following are separate third-party components, not MIT
+licensing for FreedomSlicer as a whole. Preserve their upstream notices.
+
+Three.js 0.187.0: MIT; authors and complete terms in THREE-LICENSE.txt in the
+public distribution and node_modules/three/LICENSE in a development checkout.
+
+Kiri:Moto / GridSpace: MIT; original copyright and terms in
+vendor/kiri/license.md in the browser distribution. Pinned upstream artifacts
+and checksums are recorded in modules/engine-kiri-browser/vendor.json locally.
+
+Manifold: Apache License 2.0; full terms in vendor/wasm/MANIFOLD-LICENSE.txt in
+the browser distribution. This engine dependency retains its original license.
+
+esbuild 0.28.2: MIT; a build-tool dependency obtained separately through npm.
+Node.js: separately installed runtime, under its own bundled license notices.
+
+PrusaSlicer: separately installed external executable, under its upstream
+AGPL-3.0 license. FreedomSlicer's CLI adapter does not relicense or distribute
+that executable in the browser demonstration.
+
+This list does not replace embedded bundle notices or upstream license texts.
+Third-party code is excluded from FreedomSlicer's proprietary ownership claim.

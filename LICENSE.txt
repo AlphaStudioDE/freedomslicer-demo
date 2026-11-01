@@ -1,0 +1,47 @@
+FREEDOMSLICER PROPRIETARY LICENSE
+Copyright (c) 2026 FreedomSlicer project owner. All rights reserved.
+Effective date: 2026-11-01
+
+1. RIGHTS HOLDER AND SCOPE
+The original FreedomSlicer application, host, first-party modules, SDK tools,
+first-party examples, documentation, branding and artwork are proprietary to
+the individual owner of the FreedomSlicer project. This is NOT the MIT license
+and is not an open-source license. Publication of a demonstration, API or
+source-readable browser asset does not grant ownership or reuse rights.
+
+2. LIMITED PERMITTED USE
+You may access and run the official demonstration and use officially supplied
+tools, without modification, for their intended purpose. Only technical copies
+strictly necessary for that permitted operation are authorized. Independently
+authored extensions may interoperate through the published interfaces; this
+does not authorize copying FreedomSlicer implementations or sample code.
+
+3. RESERVED RIGHTS AND RESTRICTIONS
+Except for section 2, a separate written authorization from the rights holder,
+or a right that cannot lawfully be excluded, you may not copy any portion of
+the original code or assets, extract or reuse their implementation, modify,
+translate, adapt, create derivative software, redistribute, publish, sublicense,
+sell, repackage, host a copy or incorporate them into another product.
+Reverse engineering, decompilation and disassembly are prohibited to the
+extent applicable law permits that restriction. Access to a repository,
+minified bundle, author kit or documented interface grants no additional rights.
+No patent, trademark or branding license is granted.
+
+4. THIRD-PARTY MATERIALS AND USER CONTENT
+Third-party libraries, engines and other independently licensed materials
+remain owned by their respective rights holders and retain their own licenses.
+This license does not restrict rights granted by those licenses or remove
+required copyright notices. See THIRD-PARTY-NOTICES.txt and the supplied
+upstream license files. This license does not claim ownership of user models,
+projects, generated G-code or independently authored extensions merely because
+they are used with FreedomSlicer.
+
+5. MANDATORY RIGHTS AND PRIOR GRANTS
+Nothing in this notice excludes rights that cannot be waived under applicable
+law, or revokes a valid license previously granted for a particular version.
+Any additional permission requires the rights holder's separate written consent.
+
+6. NO WARRANTY
+To the extent permitted by law, this experimental software is provided as is,
+without warranties, and the rights holder is not liable for loss arising from
+its use. Mandatory consumer and other non-waivable rights remain unaffected.

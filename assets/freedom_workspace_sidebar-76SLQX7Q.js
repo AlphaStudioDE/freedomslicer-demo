@@ -1,3 +1,4 @@
+/*! FreedomSlicer original code: proprietary. Copyright (c) 2026 FreedomSlicer project owner. All rights reserved. Third-party portions retain their licenses. See LICENSE.txt and THIRD-PARTY-NOTICES.txt. */
 function o(i,t){let a=document.createElement("style");a.textContent=`
     .layout-sidebar{display:grid;height:100%;gap:12px;grid-template-columns:72px minmax(0,1fr) 310px;grid-template-rows:minmax(0,1fr) 104px}
     .layout-sidebar>[data-slot=nav]{grid-column:1;grid-row:1/3;flex-direction:column;padding:16px 10px 16px 0;border-right:1px solid var(--line)}
