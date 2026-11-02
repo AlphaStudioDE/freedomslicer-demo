@@ -16,6 +16,12 @@ the browser distribution. This engine dependency retains its original license.
 
 esbuild 0.28.2: MIT; a build-tool dependency obtained separately through npm.
 Node.js: separately installed runtime, under its own bundled license notices.
+Electron 45.2.1: MIT, copyright Electron contributors and 2013-2020 GitHub Inc.;
+full terms in node_modules/electron/LICENSE and electron/dist/LICENSE in the
+local development checkout. Its Chromium components retain the notices in
+node_modules/electron/dist/LICENSES.chromium.html. Electron is used for the
+Windows desktop prototype and is not included in the browser demonstration.
+A future desktop distribution must preserve these bundled notices.
 
 PrusaSlicer: separately installed external executable, under its upstream
 AGPL-3.0 license. FreedomSlicer's CLI adapter does not relicense or distribute
