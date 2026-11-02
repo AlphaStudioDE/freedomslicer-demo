@@ -29,3 +29,8 @@ that executable in the browser demonstration.
 
 This list does not replace embedded bundle notices or upstream license texts.
 Third-party code is excluded from FreedomSlicer's proprietary ownership claim.
+
+fflate 0.8.3: MIT, copyright Arjun Barrett. The ZIP codec is reused from the
+Three.js distribution (examples/jsm/libs/fflate.module.js), not authored by
+FreedomSlicer. Full terms: modules/browser-extension-manager/public/FFLATE-LICENSE.txt
+in development, and the extension-manager resource/SDK kit in distributions.
