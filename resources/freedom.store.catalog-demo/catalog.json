@@ -14,6 +14,10 @@
         "freedom.document.model@1",
         "freedom.ui.panels@1"
       ],
+      "provides": [],
+      "category": "Utilities",
+      "compatibility": "FreedomSlicer desktop and Lite · model information and panel services.",
+      "longDescription": "Inspect the selected model without leaving your workspace. Model info displays dimensions, triangle count and source size, and updates when your selection changes. This independent SDK example uses two required built-in services and needs no extra downloads.",
       "pricing": {
         "model": "free"
       },
